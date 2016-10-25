@@ -14,4 +14,5 @@
 
 資管4B 0124122 楊程傑
 
-
+<big>專題簡介：</big>
+![image](https://github.com/booby1012/oose_0324019/blob/master/%E5%B0%88%E9%A1%8C%E7%B0%A1%E4%BB%8B.jpg)
