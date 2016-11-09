@@ -24,5 +24,4 @@
 
 <big>活動圖：</big>
 
-![image](https://github.com/booby1012/oose_0324019/blob/master/%E6%B4%BB%E5%8B%95%E5%9C%961.JPG)
 ![image](https://github.com/booby1012/oose_0324019/blob/master/%E6%B4%BB%E5%8B%95%E5%9C%962.JPG)
