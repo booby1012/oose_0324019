@@ -25,3 +25,7 @@
 <big>活動圖：</big>
 
 ![image](https://github.com/booby1012/oose_0324019/blob/master/%E6%B4%BB%E5%8B%95%E5%9C%962.JPG)
+
+<big>強韌圖：</big>
+
+![image](https://github.com/booby1012/oose_0324019/blob/master/%E5%BC%B7%E9%9F%8C%E5%9C%96.jpg)
