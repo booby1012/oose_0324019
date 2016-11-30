@@ -29,3 +29,9 @@
 <big>強韌圖：</big>
 
 ![image](https://github.com/booby1012/oose_0324019/blob/master/%E5%BC%B7%E9%9F%8C%E5%9C%96.jpg)
+
+<big>循序圖：</big>
+
+![image](https://github.com/booby1012/oose_0324019/blob/master/%E5%BE%AA%E5%BA%8F%E5%9C%96.jpg)
+
+
